@@ -44,7 +44,7 @@ partial class Program
     {
         Console.WriteLine("Mattermost Webhook Command Line Interface");
         Console.WriteLine("Sends message to a Mattermost channel using a webhook");
-        Console.WriteLine("© 2023 medisoftware\n");
+        Console.WriteLine("© 2023 elpatron@mailbox.org\n");
         Console.WriteLine("Markus from medisoftware says: Curl on Windows sucks!\n\n");
     }
 }
