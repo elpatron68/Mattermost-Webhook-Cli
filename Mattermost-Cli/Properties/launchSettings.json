@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mattermost-Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"backups-extern\" \r\n-w \"https://mattermost.medisoftware.org/hooks/maijqijn7iggbxumwadfs9ddmc\" -u duplicati \r\n-m \"mediCloud Duplicati Backup fehlgeschlagen: mediCloud Backup 907-Dev. Ergebnis: Warning.\"\r\n-v"
+    }
+  }
+}
