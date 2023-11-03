@@ -43,4 +43,4 @@ Replace `<your-mattermost-incoming-webhook>` with your webhook url.
 
 `.\Mattermost-Webhook-Cli.exe -c "town-square" 
 -w "https://<your-mattermost-incoming-webhook>" -u mm-cli 
--m "Hello World!\n:wave_light_skin_tone:" -v` 
+-m "Hello World! :wave_light_skin_tone:" -v` 
