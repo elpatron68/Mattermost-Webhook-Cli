@@ -39,8 +39,8 @@ Copyright (C) 2023 elpatron@mailbox.org
 
 ## Example
 
-Replace <`your-mattermost-hostname>` and `<webhook token>` with your webhook url and token.
+Replace `<your-mattermost-incoming-webhook>` with your webhook url.
 
-`.\Mattermost-Cli.exe -c "town-square" 
--w "https://<your-mattermost-hostname>/hooks/<webhook token>" -u mm-cli 
+`.\Mattermost-Webhook-Cli.exe -c "town-square" 
+-w "https://<your-mattermost-incoming-webhook>" -u mm-cli 
 -m "Hello World!\n:wave_light_skin_tone:" -v` 
